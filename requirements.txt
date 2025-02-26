@@ -1,0 +1,10 @@
+streamlit
+streamlit-option-menu
+streamlit-card
+pillow
+matplotlib
+plotly
+pandas
+wordcloud
+spacy
+nltk
