@@ -83,7 +83,6 @@ ciphersolver/
 ├── app.py                  # Main Streamlit application
 ├── README.md               # Project documentation
 ├── requirements.txt        # Python dependencies
-└── (Other files/folders)   # Additional assets or modules if needed
 ```
 
 ## Technologies Used
